@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tricky.png">
+<SubTexture name=" clownd0000" x="964" y="1287" width="412" height="343" frameX="-19" frameY="-32" frameWidth="446" frameHeight="378" />
+<SubTexture name=" clownd0001" x="1210" y="919" width="414" height="352" frameX="-24" frameY="-24" frameWidth="446" frameHeight="378" />
+<SubTexture name=" clownd0002" x="0" y="1287" width="416" height="351" frameX="-22" frameY="-25" frameWidth="446" frameHeight="378" />
+<SubTexture name=" clownl0000" x="416" y="1287" width="548" height="350" frameX="-23" frameY="-26" frameWidth="580" frameHeight="379" />
+<SubTexture name=" clownl0001" x="1653" y="0" width="519" height="336" frameX="-42" frameY="-40" frameWidth="580" frameHeight="379" />
+<SubTexture name=" clownl0002" x="1653" y="336" width="516" height="334" frameX="-43" frameY="-42" frameWidth="580" frameHeight="379" />
+<SubTexture name=" clownr0000" x="291" y="528" width="374" height="390" frameX="-15" frameY="-6" frameWidth="392" frameHeight="399" />
+<SubTexture name=" clownr0001" x="665" y="528" width="370" height="390" frameX="-16" frameY="-6" frameWidth="392" frameHeight="399" />
+<SubTexture name=" clownr0002" x="1283" y="0" width="370" height="384" frameX="-19" frameY="-12" frameWidth="392" frameHeight="399" />
+<SubTexture name=" clownu0000" x="0" y="0" width="427" height="528" frameX="-10" frameY="-15" frameWidth="444" frameHeight="545" />
+<SubTexture name=" clownu0001" x="427" y="0" width="428" height="512" frameX="-9" frameY="-18" frameWidth="444" frameHeight="545" />
+<SubTexture name=" clownu0002" x="855" y="0" width="428" height="511" frameX="-9" frameY="-19" frameWidth="444" frameHeight="545" />
+<SubTexture name=" clowni0000" x="302" y="919" width="302" height="365" frameX="-10" frameY="-20" frameWidth="319" frameHeight="408" />
+<SubTexture name=" clowni0001" x="0" y="528" width="291" height="391" frameX="-16" frameY="-15" frameWidth="319" frameHeight="408" />
+<SubTexture name=" clowni0002" x="1283" y="384" width="301" height="380" frameX="-4" frameY="-15" frameWidth="319" frameHeight="408" />
+<SubTexture name=" clowni0003" x="0" y="919" width="302" height="368" frameX="-5" frameY="-16" frameWidth="319" frameHeight="408" />
+<SubTexture name=" clowni0004" x="604" y="919" width="303" height="362" frameX="-5" frameY="-17" frameWidth="319" frameHeight="408" />
+<SubTexture name=" clowni0005" x="907" y="919" width="303" height="361" frameX="-5" frameY="-17" frameWidth="319" frameHeight="408" />
+</TextureAtlas>

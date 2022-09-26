@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFgrunt.png">
+<SubTexture name="Spankdown0000" x="858" y="0" width="196" height="180" frameX="-12" frameY="-17" frameWidth="214" frameHeight="199" />
+<SubTexture name="Spankdown0001" x="270" y="607" width="195" height="185" frameX="-13" frameY="-12" frameWidth="214" frameHeight="199" />
+<SubTexture name="Spankdown0002" x="465" y="607" width="195" height="185" frameX="-13" frameY="-12" frameWidth="214" frameHeight="199" />
+<SubTexture name="Spankidle0000" x="660" y="607" width="163" height="182" frameX="-16" frameY="-14" frameWidth="199" frameHeight="199" />
+<SubTexture name="Spankidle0001" x="697" y="376" width="159" height="184" frameX="-17" frameY="-12" frameWidth="199" frameHeight="199" />
+<SubTexture name="Spankidle0002" x="697" y="189" width="159" height="187" frameX="-22" frameY="-8" frameWidth="199" frameHeight="199" />
+<SubTexture name="Spankidle0003" x="522" y="416" width="162" height="189" frameX="-21" frameY="-6" frameWidth="199" frameHeight="199" />
+<SubTexture name="Spankidle0004" x="697" y="0" width="161" height="189" frameX="-21" frameY="-6" frameWidth="199" frameHeight="199" />
+<SubTexture name="Spankleft0000" x="0" y="0" width="263" height="208" frameX="-28" frameY="-14" frameWidth="297" frameHeight="225" />
+<SubTexture name="Spankleft0001" x="263" y="0" width="282" height="208" frameX="-9" frameY="-14" frameWidth="297" frameHeight="225" />
+<SubTexture name="Spankleft0002" x="152" y="208" width="283" height="207" frameX="-10" frameY="-15" frameWidth="297" frameHeight="225" />
+<SubTexture name="Spankright0000" x="0" y="607" width="270" height="189" frameX="-7" frameY="-7" frameWidth="277" frameHeight="199" />
+<SubTexture name="Spankright0001" x="0" y="416" width="261" height="191" frameX="-11" frameY="-4" frameWidth="277" frameHeight="199" />
+<SubTexture name="Spankright0002" x="261" y="416" width="261" height="191" frameX="-11" frameY="-4" frameWidth="277" frameHeight="199" />
+<SubTexture name="Spankup0000" x="0" y="208" width="152" height="208" frameX="-1" frameY="0" frameWidth="152" frameHeight="208" />
+<SubTexture name="Spankup0001" x="545" y="0" width="152" height="200" frameX="0" frameY="-6" frameWidth="152" frameHeight="208" />
+<SubTexture name="Spankup0002" x="545" y="200" width="152" height="200" frameX="0" frameY="-6" frameWidth="152" frameHeight="208" />
+</TextureAtlas>

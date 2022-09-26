@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HankWimby.png">
+<SubTexture name="hankdown0000" x="1491" y="306" width="278" height="273" frameX="-60" frameY="-13" frameWidth="349" frameHeight="289" />
+<SubTexture name="hankdown0001" x="1491" y="579" width="328" height="268" frameX="-8" frameY="-18" frameWidth="349" frameHeight="289" />
+<SubTexture name="hankdown0002" x="1491" y="847" width="317" height="268" frameX="-19" frameY="-18" frameWidth="349" frameHeight="289" />
+<SubTexture name="hankidle0000" x="0" y="0" width="418" height="374" frameX="-27" frameY="-16" frameWidth="449" frameHeight="393" />
+<SubTexture name="hankidle0001" x="0" y="1035" width="408" height="318" frameX="-37" frameY="-72" frameWidth="449" frameHeight="393" />
+<SubTexture name="hankidle0002" x="1090" y="0" width="401" height="321" frameX="-42" frameY="-69" frameWidth="449" frameHeight="393" />
+<SubTexture name="hankidle0003" x="0" y="713" width="393" height="322" frameX="-46" frameY="-68" frameWidth="449" frameHeight="393" />
+<SubTexture name="hankidle0004" x="1090" y="321" width="394" height="321" frameX="-46" frameY="-68" frameWidth="449" frameHeight="393" />
+<SubTexture name="hankleft0000" x="418" y="0" width="371" height="359" frameX="-33" frameY="-15" frameWidth="408" frameHeight="376" />
+<SubTexture name="hankleft0001" x="1090" y="642" width="375" height="314" frameX="-29" frameY="-60" frameWidth="408" frameHeight="376" />
+<SubTexture name="hankleft0002" x="408" y="1035" width="367" height="314" frameX="-37" frameY="-60" frameWidth="408" frameHeight="376" />
+<SubTexture name="hankright0000" x="393" y="713" width="475" height="322" frameX="-81" frameY="-8" frameWidth="559" frameHeight="332" />
+<SubTexture name="hankright0001" x="775" y="1035" width="550" height="308" frameX="-1" frameY="-22" frameWidth="559" frameHeight="332" />
+<SubTexture name="hankright0002" x="1491" y="0" width="534" height="306" frameX="-13" frameY="-24" frameWidth="559" frameHeight="332" />
+<SubTexture name="hankup0000" x="0" y="374" width="294" height="339" frameX="-14" frameY="-23" frameWidth="333" frameHeight="365" />
+<SubTexture name="hankup0001" x="294" y="374" width="305" height="331" frameX="-19" frameY="-30" frameWidth="333" frameHeight="365" />
+<SubTexture name="hankup0002" x="789" y="0" width="301" height="331" frameX="-18" frameY="-30" frameWidth="333" frameHeight="365" />
+</TextureAtlas>

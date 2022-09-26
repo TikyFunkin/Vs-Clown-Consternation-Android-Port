@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Girlboss.png">
+<SubTexture name="gfdown0000" x="1453" y="285" width="286" height="284" frameX="-13" frameY="-15" frameWidth="311" frameHeight="301" />
+<SubTexture name="gfdown0001" x="1453" y="569" width="272" height="284" frameX="-17" frameY="-15" frameWidth="311" frameHeight="301" />
+<SubTexture name="gfdown0002" x="1453" y="853" width="271" height="284" frameX="-17" frameY="-14" frameWidth="311" frameHeight="301" />
+<SubTexture name="gfidle0000" x="1453" y="0" width="334" height="285" frameX="-46" frameY="-33" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfidle0001" x="1036" y="949" width="350" height="286" frameX="-28" frameY="-33" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfidle0002" x="1015" y="296" width="358" height="294" frameX="-22" frameY="-30" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfidle0003" x="745" y="949" width="291" height="291" frameX="-92" frameY="-28" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfidle0004" x="1015" y="590" width="300" height="292" frameX="-84" frameY="-27" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfidle0005" x="443" y="949" width="302" height="292" frameX="-82" frameY="-27" frameWidth="392" frameHeight="329" />
+<SubTexture name="gfleft0000" x="521" y="650" width="266" height="296" frameX="-26" frameY="-18" frameWidth="296" frameHeight="317" />
+<SubTexture name="gfleft0001" x="0" y="650" width="264" height="299" frameX="-30" frameY="-17" frameWidth="296" frameHeight="317" />
+<SubTexture name="gfleft0002" x="264" y="650" width="257" height="299" frameX="-37" frameY="-17" frameWidth="296" frameHeight="317" />
+<SubTexture name="gfright0000" x="0" y="347" width="460" height="303" frameX="-7" frameY="-18" frameWidth="482" frameHeight="324" />
+<SubTexture name="gfright0001" x="460" y="347" width="471" height="303" frameX="-7" frameY="-19" frameWidth="482" frameHeight="324" />
+<SubTexture name="gfright0002" x="1015" y="0" width="438" height="296" frameX="-29" frameY="-25" frameWidth="482" frameHeight="324" />
+<SubTexture name="gfright0003" x="0" y="949" width="443" height="295" frameX="-30" frameY="-25" frameWidth="482" frameHeight="324" />
+<SubTexture name="gfup0000" x="0" y="0" width="344" height="347" frameX="0" frameY="0" frameWidth="359" frameHeight="347" />
+<SubTexture name="gfup0001" x="344" y="0" width="336" height="337" frameX="-9" frameY="-1" frameWidth="359" frameHeight="347" />
+<SubTexture name="gfup0002" x="680" y="0" width="335" height="335" frameX="-10" frameY="-2" frameWidth="359" frameHeight="347" />
+</TextureAtlas>
