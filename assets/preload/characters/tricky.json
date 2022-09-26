@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": " clowni",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": " clownl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				155
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": " clownu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				41
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": " clownd",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-221,
+				80
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": " clownr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky",
+	"position": [
+		-140,
+		220
+	],
+	"healthicon": "tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		22,
+		70
+	],
+	"camera_position": [
+		-170,
+		-90
+	],
+	"sing_duration": 11.7,
+	"scale": 2.2
+}

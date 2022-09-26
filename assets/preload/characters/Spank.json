@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spankidle"
+		},
+		{
+			"offsets": [
+				-9,
+				4
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spankdown"
+		},
+		{
+			"offsets": [
+				-61,
+				6
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spankup"
+		},
+		{
+			"offsets": [
+				106,
+				1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spankright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Spankleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFgrunt",
+	"position": [
+		150,
+		500
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		7,
+		64
+	],
+	"camera_position": [
+		270,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
